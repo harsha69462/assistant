@@ -3,3 +3,6 @@
 
 SETUP:
 1. pip install speechrecognition
+2. pip install pyttsx3
+3. pip install wikipedia
+4. pip install pywhatkit
