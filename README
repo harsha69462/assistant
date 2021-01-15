@@ -1,0 +1,5 @@
+1. Speech TO TEXT
+2. TEXT to speech
+
+SETUP:
+1. pip install speechrecognition
